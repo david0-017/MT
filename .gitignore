@@ -1,0 +1,6 @@
+#excluya o ignore algunos archivos
+lib
+Scripts
+venv/
+pyvenv.cfg
+.idea/
